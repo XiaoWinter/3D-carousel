@@ -114,19 +114,19 @@ html {
   visibility: visible;
 }
 #wrap .lunbo .play-wrapper .play-list .play-item.right-hiddenmove {
-  animation: right-hiddenmove 2s;
+  animation-name: right-hiddenmove;
   visibility: hidden;
 }
 #wrap .lunbo .play-wrapper .play-list .play-item.right-showmove {
-  animation: right-showmove 2s;
+  animation-name: right-showmove;
   visibility: visible;
 }
 #wrap .lunbo .play-wrapper .play-list .play-item.left-hiddenmove {
-  animation: left-hiddenmove 2s;
+  animation-name: left-hiddenmove;
   visibility: hidden;
 }
 #wrap .lunbo .play-wrapper .play-list .play-item.left-showmove {
-  animation: left-showmove 2s;
+  animation-name: left-showmove;
   visibility: visible;
 }
 #wrap .lunbo .play-wrapper .icon-list {
